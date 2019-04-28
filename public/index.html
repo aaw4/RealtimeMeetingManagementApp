@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <style>
+      .footer {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: grey;
+        color:white;
+        text-align: right;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      }
+      </style>
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+      integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $(".carousel").carousel({
+          interval: 1500
+        });
+      });
+    </script>
+    
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Realtime Meeting Management Tool</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <footer class="footer">
+      <p>
+        All contents &copy; 2019
+        <a href = https://github.com/MinyeGit style="color: black">MinyeGit</a>. 
+        All rights reserved.
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+.note
+{
+    text-align: center;
+    height: 80px;
+    background-image: url(../bg.jpg);
+    color: yellow;
+    font-weight: bold;
+    line-height: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+.container {
+    min-height: 1000px;
+}
+
+.form-content
+{
+    padding: 5%;
+    margin-bottom: 2%;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #373ae9;
+    color: #fff;
+}
+
+  .fullscreen_bg {
+    background-image: url(../bg.jpg);
+    background-size: cover;
+    height: 100%;
+  }
+
+  

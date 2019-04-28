@@ -1,0 +1,27 @@
+.container-fluid .home {
+    background-color: whitesmoke;
+}
+
+.display-4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.jumbotron {
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.greeting {
+    font-size: 40px;
+}
+
+.carousel-inner {
+    width: 100%; 
+    height: 400px !important;
+}
+
+.carousel img {
+    margin: auto;
+}
