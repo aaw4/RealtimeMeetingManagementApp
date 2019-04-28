@@ -26,21 +26,21 @@ class Home extends Component {
                     <img
                       className="d-block w-100"
                       alt="Carousel Bootstrap First"
-                      src="https://techinnovationlive.files.wordpress.com/2018/08/main-qimg-9eb1034e9a5f5b97d1d49700f25b4b99.png"
+                      src="http://www.iiimltd.in/wp-content/uploads/2014/04/3988770_orig.jpg"
                     />
                   </div>
                   <div className="carousel-item">
                     <img
                       className="d-block w-100"
                       alt="Carousel Bootstrap Second"
-                      src="https://cn.pgi.com/wp-content/uploads/2017/09/globalmeet-multipoint-video-conference.jpg"
+                      src="https://cityofirondaleal.gov/wp-content/uploads/kick-off-meeting.jpg"
                     />
                   </div>
                   <div className="carousel-item active">
                     <img
                       className="d-block w-100"
                       alt="Carousel Bootstrap Third"
-                      src="https://cdn-images-1.medium.com/max/1200/1*qeXm3kRhRK_tEqCJhMoPuQ.png"
+                      src="https://upwardsleader.files.wordpress.com/2016/01/public_meetings.jpg"
                     />
                   </div>
                 </div>{" "}
